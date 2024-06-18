@@ -1,0 +1,11 @@
+.bg{
+    background-color: rgba(129, 129, 233, 0.89);
+}
+.obg{
+    background-color: rgb(189, 228, 191);
+}
+.login{
+    margin-top: 150px;
+    background-color: rgba(189, 134, 240, 0.822);
+    border-radius: 10%;
+}
