@@ -18,10 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `EBEWD2_CR5_animal_adoption_angelopane`
+-- Database: `shelter`
 --
-CREATE DATABASE IF NOT EXISTS `EBEWD2_CR5_animal_adoption_angelopane` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
-USE `EBEWD2_CR5_animal_adoption_angelopane`;
+CREATE DATABASE IF NOT EXISTS `shelter` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;
+USE `shelter`;
 
 -- --------------------------------------------------------
 
