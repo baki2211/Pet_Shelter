@@ -3,7 +3,7 @@
 $hostname = "127.0.0.1";
 $username = "root"; 
 $password = "";
-$dbname = "EBEWD2_CR5_animal_adoption_angelopane"; 
+$dbname = "shelter"; 
 
 $conn = new mysqli($hostname, $username, $password, $dbname);
 
